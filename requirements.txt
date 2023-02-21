@@ -1,0 +1,4 @@
+openai
+tweepy
+python-decouple
+pytz
